@@ -1,0 +1,6 @@
+To install zeep 
+(1)Open Command Prompt (No need to open as Admin)
+(2)Type the following commands
+	curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py
+	python get-pip.py
+	pip install zeep

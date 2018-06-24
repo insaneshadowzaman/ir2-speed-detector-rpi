@@ -1,0 +1,12 @@
+### Compatible with Python 3 only
+
+1. Install ZEEP @ @
+2. Follow Supporting SMS file and see page 7 'python' section
+3. Try to use sms api in thread as it takes 5 to 10 sec to call the api.
+
+sudo apt-get install libxml2-dev libxslt-dev python-dev
+sudo apt-get install python-lxml
+sudo apt-get install python-zeep
+pip install lxml
+pip install zeep
+pip3 install zeep 
